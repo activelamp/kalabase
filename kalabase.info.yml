@@ -2,6 +2,7 @@ name: Kalabase
 type: theme
 description: Base theme for Kalamuna
 core: 8.x
+core_version_requirement: ^8 || ^9
 
 # Defines the base theme
 base theme: classy
